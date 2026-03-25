@@ -10,7 +10,7 @@ Veriye sadece rapor üretmek için değil;
 İş birimleriyle yakın çalışarak analitik ve raporlama ihtiyaçlarını değerlendirir,  
 manuel iş yükü oluşturan veya dağınık ilerleyen süreçleri daha **dijital, standart ve sürdürülebilir** yapılara dönüştürmeye odaklanırım.
 
-<br><br><br><br>
+<br><br><br>
 
 <h2>🚀 Ne Yapıyorum?</h2>
 
@@ -21,7 +21,7 @@ manuel iş yükü oluşturan veya dağınık ilerleyen süreçleri daha **dijita
 - Excel ve benzeri dağınık kaynaklarda yürüyen süreçleri daha sürdürülebilir analitik yapılara dönüştürmeye çalışıyorum
 - Otomatik rapor üretimi ve e-posta dağıtımını destekleyen çözümler üzerinde çalışıyorum
 
-<br><br>
+<br>
 
 ## 🧩 Odak Alanlarım
 

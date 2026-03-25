@@ -12,6 +12,8 @@ manuel iş yükü oluşturan veya dağınık ilerleyen süreçleri daha **dijita
 
 ---
 
+
+
 <h2>🚀 Ne Yapıyorum?</h2>
 
 - Qlik Sense ile uçtan uca dashboard ve reporting çözümleri geliştiriyorum
@@ -20,6 +22,7 @@ manuel iş yükü oluşturan veya dağınık ilerleyen süreçleri daha **dijita
 - Yönetim ve operasyon ekipleri için özet, anlamlı ve aksiyon alınabilir reporting içerikleri hazırlıyorum
 - Excel ve benzeri dağınık kaynaklarda yürüyen süreçleri daha sürdürülebilir analitik yapılara dönüştürmeye çalışıyorum
 - Otomatik rapor üretimi ve e-posta dağıtımını destekleyen çözümler üzerinde çalışıyorum
+
 
 
 ## 🧩 Odak Alanlarım
@@ -31,6 +34,7 @@ manuel iş yükü oluşturan veya dağınık ilerleyen süreçleri daha **dijita
 - Yönetim Raporlaması ve Karar Desteği
 - Süreç Dijitalleştirme
 - Sigortacılık, Sağlık ve Operasyonel Analitik
+
 
 
 ## 🛠 Kullandığım Teknolojiler ve Araçlar
@@ -48,6 +52,7 @@ Data Analysis, Data Visualization, Self-Service Reporting
 Excel, JIRA, İş Gereksinimi Analizi
 
 
+
 ## 💡 Bakış Açım
 
 Benim için iyi bir dashboard sadece güzel görünen bir ekran değildir.  
@@ -55,6 +60,7 @@ Doğru veri modeli, doğru KPI yapısı, doğru iş soruları ve doğru anlatım
 
 Bu nedenle yalnızca rapor üretmeye değil;  
 **ihtiyacı anlamaya, süreci sadeleştirmeye, görünürlüğü artırmaya ve karar desteği üretmeye** odaklanırım.
+
 
 
 ## 📌 GitHub'da Neler Paylaşacağım?
@@ -66,6 +72,9 @@ Bu profilde ağırlıklı olarak şu içerikler yer alacak:
 - KPI ve management reporting yapıları
 - Süreç dijitalleştirme yaklaşımını anlatan analitik projeler
 - Anonimleştirilmiş iş problemi → çözüm yaklaşımı içeren portföy çalışmaları
+
+
+
 
 ---
 

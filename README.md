@@ -25,13 +25,13 @@ manuel iş yükü oluşturan veya dağınık ilerleyen süreçleri daha **dijita
 
 ## 🧩 Odak Alanlarım
 
-- Business Intelligence & Analytics
-- Qlik Sense Development
-- Data Modeling & ETL
-- Dashboard Design & KPI Reporting
-- Management Reporting & Decision Support
-- Process Digitalization
-- Insurance, Healthcare and Operational Analytics
+- İş Zekası ve Veri Analitiği
+- Qlik Sense Geliştirme
+- Veri Modelleme ve ETL
+- Dashboard Tasarımı ve KPI Raporlama
+- Yönetim Raporlaması ve Karar Desteği
+- Süreç Dijitalleştirme
+- Sigortacılık, Sağlık ve Operasyonel Analitik
 
 ---
 
@@ -104,7 +104,7 @@ By working closely with business teams, I aim to turn manual or scattered report
 - Dashboard Design & KPI Reporting
 - Management Reporting & Decision Support
 - Process Digitalization
-- Insurance, Healthcare and Operational Analytics
+- Insurance, Healthcare and Operational Analytics 
 
 ---
 
@@ -121,3 +121,25 @@ Data Analysis, Data Visualization, Self-Service Reporting
 
 **Tools**  
 Excel, JIRA, Business Requirements Analysis
+
+---
+
+## 💡 Perspective
+
+For me, a good dashboard is not just a visually appealing screen.  
+Real value emerges when the right data model, the right KPI structure, the right business questions, and the right storytelling work together.
+
+That is why I focus not only on building reports, but also on  
+**understanding the need, simplifying the process, improving visibility, and supporting decision-making**.
+
+---
+
+## 📌 What I Share on GitHub
+
+This profile mainly includes:
+
+- Qlik Sense dashboard and reporting case studies
+- SQL, data modeling, and ETL examples
+- KPI and management reporting structures
+- Analytics projects focused on process digitalization
+- Portfolio work built around anonymized business problem → solution approaches

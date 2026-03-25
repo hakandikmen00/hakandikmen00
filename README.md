@@ -1,107 +1,123 @@
-## Merhaba, ben Hakan 👋  
+# Merhaba, ben Hakan 👋
+### İş Zekası ve Veri Analitiği Uzmanı | Qlik Sense Developer
 
-İstanbul 🇹🇷 merkezli bir **Business Intelligence & Veri Analitiği Uzmanıyım**.  
-Uzmanlık alanım **Qlik Sense** başta olmak üzere, analitik veri modelleme, raporlama ve karar destek sistemleridir.
+İstanbul 🇹🇷 merkezli bir **BI / Analytics** profesyoneliyim.  
+Qlik Sense, SQL, data modeling, ETL, dashboard design ve reporting alanlarında çalışıyorum.
 
-Veriye sadece rapor üretmek için değil,  
-**işi anlamak, doğru soruyu sormak ve karar verilebilir içgörüler üretmek** için yaklaşırım.
+Veriye sadece rapor üretmek için değil;  
+**işi anlamak, doğru soruları sormak, ihtiyaçları erken fark etmek ve karar verilebilir içgörüler üretmek** için yaklaşırım.
 
----
-
-### 🚀 Ne Yapıyorum?
-
-- 📊 **Qlik Sense** ile uçtan uca dashboard ve raporlama çözümleri geliştiriyorum  
-- 🧩 Performanslı ve sürdürülebilir **veri modelleri** (star schema, master calendar, mapping tables) tasarlıyorum  
-- 🔍 Karmaşık iş süreçlerini **ölçülebilir KPI’lara** dönüştürüyorum  
-- 🛠 SQL, Excel ve BI araçlarını birlikte kullanarak analitik çözümler üretiyorum  
+İş birimleriyle yakın çalışarak analitik ve raporlama ihtiyaçlarını değerlendirir,  
+manuel iş yükü oluşturan veya dağınık ilerleyen süreçleri daha **dijital, standart ve sürdürülebilir** yapılara dönüştürmeye odaklanırım.
 
 ---
 
-### 🧠 İlgi Alanlarım
+## 🚀 Ne Yapıyorum?
 
-- 📊 Business Intelligence & Analytics  
-- 🧩 Qlik Sense Data Modeling & Scripting  
-- 📈 KPI Tasarımı ve Analitik Düşünce  
-- 🎨 Veri Görselleştirme & Storytelling  
-- 🤖 Yapay Zeka & Generative AI (BI perspektifiyle)  
-- 🏥 Sigorta ve Sağlık Analitiği  
-
----
-
-### 🛠 Kullandığım Teknolojiler
-
-- **BI & Visualization:** Qlik Sense, QlikView, Tableau  
-- **Data:** SQL, Excel, SAP, BigQuery  
-- **Analytics:** İstatistik, Veri Modelleme, KPI Tasarımı  
-- **Programming:** Python, R (öğrenme & uygulama)  
+- Qlik Sense ile uçtan uca dashboard ve reporting çözümleri geliştiriyorum
+- SQL, ETL ve data modeling süreçleriyle raporlamaya uygun veri yapıları kurguluyorum
+- Karmaşık iş süreçlerini ölçülebilir KPI’lara ve yönetilebilir dashboard yapılarına dönüştürüyorum
+- Yönetim ve operasyon ekipleri için özet, anlamlı ve aksiyon alınabilir reporting içerikleri hazırlıyorum
+- Excel ve benzeri dağınık kaynaklarda yürüyen süreçleri daha sürdürülebilir analitik yapılara dönüştürmeye çalışıyorum
+- Otomatik rapor üretimi ve e-posta dağıtımını destekleyen çözümler üzerinde çalışıyorum
 
 ---
 
-### 🎯 Şu Anda
+## 🧩 Odak Alanlarım
 
-- 🎓 Business Intelligence & Data Analytics alanında yüksek lisans yapıyorum  
-- 🤖 Qlik + AI entegrasyonları ve Generative AI kullanım senaryoları üzerinde çalışıyorum  
-- 📚 Analitik derinliği ve iş etkisini artırmaya odaklanıyorum  
-
----
-
-### 💡 Bakış Açım
-
-> *İyi bir dashboard sadece güzel görünen bir ekran değildir;  
-> doğru veri modeli, doğru metrik ve doğru soruların birleşimidir.*
-
------------------------------------------------------------------------------------------------
-
---ENG.
-
-## Hi, I'm Hakan 👋  
-
-I'm a **Business Intelligence & Data Analytics Professional** based in İstanbul 🇹🇷,  
-specialized in **Qlik Sense**, analytical data modeling, and decision-support systems.
-
-I don’t see data as just charts and reports —  
-I use it to **understand the business, ask the right questions, and drive better decisions**.
+- Business Intelligence & Analytics
+- Qlik Sense Development
+- Data Modeling & ETL
+- Dashboard Design & KPI Reporting
+- Management Reporting & Decision Support
+- Process Digitalization
+- Insurance, Healthcare and Operational Analytics
 
 ---
 
-### 🚀 What I Do
+## 🛠 Kullandığım Teknolojiler ve Araçlar
 
-- 📊 Build end-to-end **Qlik Sense dashboards and BI solutions**  
-- 🧩 Design **robust and scalable data models** (star schema, master calendars, mapping tables)  
-- 📈 Translate complex business processes into **actionable KPIs**  
-- 🛠 Combine SQL, Excel, and BI tools into real-world analytics solutions  
+**BI & Reporting**  
+Qlik Sense, QlikView, Dashboard Development, KPI Reporting
 
----
+**Data & Modeling**  
+SQL, SQL Server, Data Modeling, Qlik Script, ETL
 
-### 🧠 Areas of Interest
+**Analytics**  
+Data Analysis, Data Visualization, Self-Service Reporting
 
-- 📊 Business Intelligence & Analytics  
-- 🧩 Qlik Sense Data Modeling & Scripting  
-- 📈 KPI Design & Analytical Thinking  
-- 🎨 Data Visualization & Storytelling  
-- 🤖 Artificial Intelligence & Generative AI (from a BI perspective)  
-- 🏥 Insurance & Healthcare Analytics  
+**Tools**  
+Excel, JIRA, İş Gereksinimi Analizi
 
 ---
 
-### 🛠 Tools & Technologies
+## 💡 Bakış Açım
 
-- **BI & Visualization:** Qlik Sense, QlikView, Tableau  
-- **Data:** SQL, Excel, SAP, BigQuery  
-- **Analytics:** Statistics, Data Modeling, KPI Design  
-- **Programming:** Python, R (learning & applying)  
+Benim için iyi bir dashboard sadece güzel görünen bir ekran değildir.  
+Doğru veri modeli, doğru KPI yapısı, doğru iş soruları ve doğru anlatım birlikte çalıştığında gerçek değer oluşur.
 
----
-
-### 🎯 Currently
-
-- 🎓 Graduate student in **Business Intelligence & Data Analytics**  
-- 🤖 Exploring **Qlik + AI** and Generative AI use cases  
-- 📚 Continuously improving analytical depth and business impact  
+Bu nedenle yalnızca rapor üretmeye değil;  
+**ihtiyacı anlamaya, süreci sadeleştirmeye, görünürlüğü artırmaya ve karar desteği üretmeye** odaklanırım.
 
 ---
 
-### 💡 Mindset
+## 📌 GitHub'da Neler Paylaşacağım?
 
-> *A great dashboard is not about visuals alone —  
-> it’s about the right data model, the right metrics, and the right questions.*
+Bu profilde ağırlıklı olarak şu içerikler yer alacak:
+
+- Qlik Sense dashboard ve reporting case study’leri
+- SQL, data modeling ve ETL örnekleri
+- KPI ve management reporting yapıları
+- Süreç dijitalleştirme yaklaşımını anlatan analitik projeler
+- Anonimleştirilmiş iş problemi → çözüm yaklaşımı içeren portföy çalışmaları
+
+---
+
+# Hi, I'm Hakan 👋
+### Business Intelligence & Analytics Specialist | Qlik Sense Developer
+
+I am a BI / Analytics professional based in Istanbul 🇹🇷, focused on **Qlik Sense, SQL, data modeling, ETL, dashboard design, and reporting**.
+
+I do not approach data just to build reports.  
+I use it to **understand the business, identify needs early, ask better questions, and produce decision-ready insights**.
+
+By working closely with business teams, I aim to turn manual or scattered reporting processes into more **digital, standardized, and sustainable** analytics structures.
+
+---
+
+## 🚀 What I Do
+
+- Build end-to-end dashboard and reporting solutions with Qlik Sense
+- Design reporting-ready data structures through SQL, ETL, and data modeling
+- Transform complex business processes into measurable KPIs and manageable dashboards
+- Prepare meaningful and action-oriented reporting content for management and operations teams
+- Improve Excel-based or scattered reporting processes with more sustainable analytics approaches
+- Work on solutions supporting automated reporting and e-mail distribution
+
+---
+
+## 🧩 Focus Areas
+
+- Business Intelligence & Analytics
+- Qlik Sense Development
+- Data Modeling & ETL
+- Dashboard Design & KPI Reporting
+- Management Reporting & Decision Support
+- Process Digitalization
+- Insurance, Healthcare and Operational Analytics
+
+---
+
+## 🛠 Tools & Technologies
+
+**BI & Reporting**  
+Qlik Sense, QlikView, Dashboard Development, KPI Reporting
+
+**Data & Modeling**  
+SQL, SQL Server, Data Modeling, Qlik Script, ETL
+
+**Analytics**  
+Data Analysis, Data Visualization, Self-Service Reporting
+
+**Tools**  
+Excel, JIRA, Business Requirements Analysis

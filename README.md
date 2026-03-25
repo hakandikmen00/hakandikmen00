@@ -21,7 +21,6 @@ manuel iş yükü oluşturan veya dağınık ilerleyen süreçleri daha **dijita
 - Excel ve benzeri dağınık kaynaklarda yürüyen süreçleri daha sürdürülebilir analitik yapılara dönüştürmeye çalışıyorum
 - Otomatik rapor üretimi ve e-posta dağıtımını destekleyen çözümler üzerinde çalışıyorum
 
---
 
 ## 🧩 Odak Alanlarım
 
@@ -33,23 +32,21 @@ manuel iş yükü oluşturan veya dağınık ilerleyen süreçleri daha **dijita
 - Süreç Dijitalleştirme
 - Sigortacılık, Sağlık ve Operasyonel Analitik
 
----
 
 ## 🛠 Kullandığım Teknolojiler ve Araçlar
 
-**BI & Reporting**  
+**BI & Reporting:**  
 Qlik Sense, QlikView, Dashboard Development, KPI Reporting
 
-**Data & Modeling**  
+**Data & Modeling:**  
 SQL, SQL Server, Data Modeling, Qlik Script, ETL
 
-**Analytics**  
+**Analytics:**  
 Data Analysis, Data Visualization, Self-Service Reporting
 
-**Tools**  
+**Tools:**  
 Excel, JIRA, İş Gereksinimi Analizi
 
----
 
 ## 💡 Bakış Açım
 
@@ -59,7 +56,6 @@ Doğru veri modeli, doğru KPI yapısı, doğru iş soruları ve doğru anlatım
 Bu nedenle yalnızca rapor üretmeye değil;  
 **ihtiyacı anlamaya, süreci sadeleştirmeye, görünürlüğü artırmaya ve karar desteği üretmeye** odaklanırım.
 
----
 
 ## 📌 GitHub'da Neler Paylaşacağım?
 

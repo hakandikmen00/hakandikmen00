@@ -21,7 +21,7 @@ manuel iş yükü oluşturan veya dağınık ilerleyen süreçleri daha **dijita
 - Excel ve benzeri dağınık kaynaklarda yürüyen süreçleri daha sürdürülebilir analitik yapılara dönüştürmeye çalışıyorum
 - Otomatik rapor üretimi ve e-posta dağıtımını destekleyen çözümler üzerinde çalışıyorum
 
----
+--
 
 ## 🧩 Odak Alanlarım
 

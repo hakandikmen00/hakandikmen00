@@ -12,7 +12,7 @@ manuel iş yükü oluşturan veya dağınık ilerleyen süreçleri daha **dijita
 
 ---
 
-## 🚀 Ne Yapıyorum?
+# 🚀 Ne Yapıyorum?
 
 - Qlik Sense ile uçtan uca dashboard ve reporting çözümleri geliştiriyorum
 - SQL, ETL ve data modeling süreçleriyle raporlamaya uygun veri yapıları kurguluyorum

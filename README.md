@@ -33,7 +33,7 @@ manuel iş yükü oluşturan veya dağınık ilerleyen süreçleri daha **dijita
 - Süreç Dijitalleştirme
 - Sigortacılık, Sağlık ve Operasyonel Analitik
 
-<br><br>
+<br>
 
 ## 🛠 Kullandığım Teknolojiler ve Araçlar
 
@@ -49,7 +49,7 @@ Data Analysis, Data Visualization, Self-Service Reporting
 **Tools:**  
 Excel, JIRA, İş Gereksinimi Analizi
 
-<br><br>
+<br>
 
 ## 💡 Bakış Açım
 
@@ -59,7 +59,7 @@ Doğru veri modeli, doğru KPI yapısı, doğru iş soruları ve doğru anlatım
 Bu nedenle yalnızca rapor üretmeye değil;  
 **ihtiyacı anlamaya, süreci sadeleştirmeye, görünürlüğü artırmaya ve karar desteği üretmeye** odaklanırım.
 
-<br><br>
+<br>
 
 ## 📌 GitHub'da Neler Paylaşacağım?
 
@@ -71,7 +71,7 @@ Bu profilde ağırlıklı olarak şu içerikler yer alacak:
 - Süreç dijitalleştirme yaklaşımını anlatan analitik projeler
 - Anonimleştirilmiş iş problemi → çözüm yaklaşımı içeren portföy çalışmaları
 
-<br><br><br><br>
+<br><br><br>
 ---
 
 # Hi, I'm Hakan 👋

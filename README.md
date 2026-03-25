@@ -71,8 +71,7 @@ Bu profilde ağırlıklı olarak şu içerikler yer alacak:
 - Süreç dijitalleştirme yaklaşımını anlatan analitik projeler
 - Anonimleştirilmiş iş problemi → çözüm yaklaşımı içeren portföy çalışmaları
 
-<br><br><br>
----
+<br><br>
 
 # Hi, I'm Hakan 👋
 ### Business Intelligence & Analytics Specialist | Qlik Sense Developer
@@ -84,7 +83,7 @@ I use it to **understand the business, identify needs early, ask better question
 
 By working closely with business teams, I aim to turn manual or scattered reporting processes into more **digital, standardized, and sustainable** analytics structures.
 
----
+<br><br>
 
 ## 🚀 What I Do
 
@@ -95,7 +94,7 @@ By working closely with business teams, I aim to turn manual or scattered report
 - Improve Excel-based or scattered reporting processes with more sustainable analytics approaches
 - Work on solutions supporting automated reporting and e-mail distribution
 
----
+<br>
 
 ## 🧩 Focus Areas
 
@@ -107,7 +106,7 @@ By working closely with business teams, I aim to turn manual or scattered report
 - Process Digitalization
 - Insurance, Healthcare and Operational Analytics 
 
----
+<br>
 
 ## 🛠 Tools & Technologies
 
@@ -123,7 +122,7 @@ Data Analysis, Data Visualization, Self-Service Reporting
 **Tools**  
 Excel, JIRA, Business Requirements Analysis
 
----
+<br>
 
 ## 💡 Perspective
 
@@ -133,7 +132,7 @@ Real value emerges when the right data model, the right KPI structure, the right
 That is why I focus not only on building reports, but also on  
 **understanding the need, simplifying the process, improving visibility, and supporting decision-making**.
 
----
+<br>
 
 ## 📌 What I Share on GitHub
 
